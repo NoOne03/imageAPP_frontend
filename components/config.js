@@ -1,7 +1,7 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyDg_P7YOpyDOLBbkHXz9HFnXG8a1ILz4oo",
-    authDomain: "imageapp-48de1.firebaseapp.com",
-    databaseURL: "https://imageapp-48de1.firebaseio.com",
+    apiKey: "your_api_key",
+    authDomain: "domain_here",
+    databaseURL: "",
     projectId: "imageapp-48de1",
     storageBucket: "imageapp-48de1.appspot.com",
     messagingSenderId: "1014539963564",
