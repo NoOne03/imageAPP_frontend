@@ -8,7 +8,7 @@ class Main extends Component {
   signInWithGoogleAsync = async() => {
   try {
     const { type, accessToken, user } = await Google.logInAsync({
-      androidClientId: '1016877556542-oemm4879ap9rj7427cuh34qe8pqd1lba.apps.googleusercontent.com',
+      androidClientId: 'your_android_client_id',
       //iosClientId: YOUR_CLIENT_ID_HERE,
       scopes: ['profile', 'email'],
     });
